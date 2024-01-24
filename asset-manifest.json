@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OTP-UI-UX/static/css/main.10c99947.css",
+    "main.js": "/OTP-UI-UX/static/js/main.38c6e76a.js",
+    "static/js/787.c67e888b.chunk.js": "/OTP-UI-UX/static/js/787.c67e888b.chunk.js",
+    "index.html": "/OTP-UI-UX/index.html",
+    "main.10c99947.css.map": "/OTP-UI-UX/static/css/main.10c99947.css.map",
+    "main.38c6e76a.js.map": "/OTP-UI-UX/static/js/main.38c6e76a.js.map",
+    "787.c67e888b.chunk.js.map": "/OTP-UI-UX/static/js/787.c67e888b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10c99947.css",
+    "static/js/main.38c6e76a.js"
+  ]
+}
